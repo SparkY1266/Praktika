@@ -1,1 +1,1 @@
-# Praktika ИСиП 23-1
+# Praktika ИСиП 23-1 (Initiliazng)
